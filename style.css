@@ -1,8 +1,13 @@
 body {
   /*background-color: #33ccff;*/
   font-family: Arial;
+  user-select: none;
 }
 
-.container {
+#container {
     background: linear-gradient(to bottom left, #0066ff 0%, #ccffff 100%);
+}
+
+#naglowek {
+  font-size: 70px;
 }
