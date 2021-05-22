@@ -1,4 +1,8 @@
 body {
   /*background-color: #33ccff;*/
-  background: linear-gradient(to bottom, black 0%, white 100%);
+  font-family: Arial;
+}
+
+.back {
+    background: linear-gradient(to bottom left, #0066ff 0%, #ccffff 100%);
 }
