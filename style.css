@@ -3,6 +3,6 @@ body {
   font-family: Arial;
 }
 
-.back {
+.container {
     background: linear-gradient(to bottom left, #0066ff 0%, #ccffff 100%);
 }
