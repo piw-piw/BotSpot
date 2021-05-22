@@ -1,1 +1,4 @@
-
+body {
+  /*background-color: #33ccff;*/
+  background: linear-gradient(to right bottom, #33ccff 0%, white 100%);
+}
