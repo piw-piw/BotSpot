@@ -4,12 +4,12 @@ html {
 body {
   /*background-color: #33ccff;*/
   font-family: Arial;
-  user-select: none;
+  /*user-select: none;*/
 }
 
 #container
 	{
-		width: 1000px;
+		width: auto;
 		margin-left: auto;
 		margin-right: auto;
 
@@ -20,16 +20,32 @@ body {
 		/*background-color: rgb(0, 0, 0);*/
 		color: white;
 		text-align: center;
-		padding: 15px;
+		padding: 10px;
     background: linear-gradient(to bottom left, #0066ff 0%, #ccffff 100%);
-  font-size: 50px;
+    font-size: 50px;
+    width: auto;
   }
-  #nav
+#nav
 	{	
     background:whitesmoke;
 		padding: 10px;
     text-align: center;
     clear: both;
-    width: 1000px;
+    width: auto;
   }
-
+#FAQ
+  {
+    width: auto;
+    background:lightblue;
+		padding: 10px;
+    text-align: center;
+    clear: both;
+  }
+#Ulotka
+  {
+    width: auto;
+    background:rgb(255, 255, 255);
+		padding: 10px;
+    text-align: center;
+    clear: both;
+  }
