@@ -7,11 +7,29 @@ body {
   user-select: none;
 }
 
-#container {
-    background: linear-gradient(to bottom left, #0066ff 0%, #ccffff 100%);
-}
+#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
 
-#naglowek {
-  font-size: 70px;
-}
+  }
+
+#logo
+	{
+		/*background-color: rgb(0, 0, 0);*/
+		color: white;
+		text-align: center;
+		padding: 15px;
+    background: linear-gradient(to bottom left, #0066ff 0%, #ccffff 100%);
+  font-size: 50px;
+  }
+  #nav
+	{	
+    background:whitesmoke;
+		padding: 10px;
+    text-align: center;
+    clear: both;
+    width: 1000px;
+  }
 
