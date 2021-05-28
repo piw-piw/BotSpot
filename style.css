@@ -32,6 +32,7 @@ body {
     text-align: center;
     clear: both;
     width: auto;
+    font-size: 15px;
   }
 #FAQ
   {
@@ -40,6 +41,7 @@ body {
 		padding: 10px;
     text-align: center;
     clear: both;
+    font-size: 15px;
   }
 #Ulotka
   {
@@ -48,4 +50,5 @@ body {
 		padding: 10px;
     text-align: center;
     clear: both;
+    font-size: 15px;
   }
