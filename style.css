@@ -5,13 +5,13 @@ body {
   /*background-color: #33ccff;*/
   font-family: Arial;
   /*user-select: none;*/
+  margin: 0px;
 }
+
 
 #container
 	{
 		width: auto;
-		margin-left: auto;
-		margin-right: auto;
 
   }
 
@@ -26,13 +26,15 @@ body {
     width: auto;
   }
 #nav
-	{	
-    background:whitesmoke;
+	{
+    background: ;
 		padding: 10px;
     text-align: center;
     clear: both;
-    width: auto;
+    width: 100%;
     font-size: 20px;
+    position: fixed;
+    border: 1px solid black;
   }
 #FAQ
   {
