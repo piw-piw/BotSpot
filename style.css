@@ -27,7 +27,7 @@ body {
   }
 #nav
 	{
-    background: ;
+    background: whitesmoke;
 		padding: 10px;
     text-align: center;
     clear: both;
@@ -35,6 +35,7 @@ body {
     font-size: 20px;
     position: fixed;
     border: 1px solid black;
+    opacity: 80%;
   }
 #FAQ
   {
